@@ -1,3 +1,4 @@
+package week01;
 
 public class 分数 {
 

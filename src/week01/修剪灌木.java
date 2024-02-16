@@ -1,3 +1,5 @@
+package week01;
+
 import java.util.Scanner;
 
 public class 修剪灌木 {
