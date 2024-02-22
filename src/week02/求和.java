@@ -1,7 +1,5 @@
 package week02;
 
-import java.util.Scanner;
-
 public class 求和 {
     public static void main(String[] args) {
         int sum = 0;
