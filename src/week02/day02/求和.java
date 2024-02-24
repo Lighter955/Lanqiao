@@ -1,4 +1,4 @@
-package week02;
+package week02.day02;
 
 public class 求和 {
     public static void main(String[] args) {
